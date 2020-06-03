@@ -14,9 +14,10 @@ This is the project you get when you run `gridsome create new-project`.
 4. Happy coding 🎉🙌
 
 
-echo "# gittest" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/ori-k-8888/gittest.git
-git push -u origin master
+- echo "# gittest" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git remote add origin https://github.com/ori-k-8888/gittest.git
+- git push -u origin master
+
