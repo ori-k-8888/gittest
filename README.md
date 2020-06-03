@@ -21,3 +21,6 @@ This is the project you get when you run `gridsome create new-project`.
 - git remote add origin https://github.com/ori-k-8888/gittest.git
 - git push -u origin master
 
+
+- git push origin master
+
